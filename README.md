@@ -10,4 +10,4 @@
 
 Contact me here: 👉 [Telegram](https://t.me/river_li)
 
-[![River's github stats](https://github-readme-stats.vercel.app/api?username=river-li)](https://river-li.github.io)
+[![River's github stats](https://github-readme-stats.vercel.app/api?username=river-li?theme=tokyonight)](https://river-li.github.io)
