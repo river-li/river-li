@@ -1,16 +1,13 @@
-### Hi there 👋
+### 关于我 About Me 👋
 
-<!--
-**river-li/river-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+武汉大学，硕士在读
 
-Here are some ideas to get you started:
+主要做IoT的漏洞挖掘，比较菜，一路踩坑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+喜欢新奇的电子产品，二次元，有空了打打游戏
+
+博客(Blog): [https://river-li.github.io](https://river-li.github.io) 
+
+Contact me here: 👉 [Telegram](https://t.me/river_li)
+
+[![River's github stats](https://github-readme-stats.vercel.app/api?username=river-li)](https://river-li.github.io)
