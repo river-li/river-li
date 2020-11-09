@@ -10,7 +10,6 @@
 
 Contact me here: 👉 [Telegram](https://t.me/river_li)
 
-[![River's github stats](https://github-readme-stats.vercel.app/api?username=river-li&theme=tokyonight&show_icons=true)](https://river-li.github.io)
+[![River's github stats](https://github-readme-stats.vercel.app/api?username=river-li&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://river-li.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=river-li&layout=compact)]()
 
