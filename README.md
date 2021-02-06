@@ -6,7 +6,7 @@ I mainly focus on IoT Security, Underlying Software's Vulnerability Detection an
 
 When I'm free, I enjoy [reading](https://book.douban.com/people/176314301/), watching [movies](https://movie.douban.com/people/176314301/) and [animations](https://bangumi.tv/user/573381).
 
-If you're interested, please check out my [blog](https://hack1s.fun) where I share my ordinary life, and my personal [wiki](https://river-li.github.io) which serves as a technical notebook.
+If you're interested, please check out my [blog](https://hack1s.fun) where I share my ordinary life, and my personal [wiki](https://wiki.hack1s.fun)which serves as a technical notebook.
 
 Feel free to contact my via [Telegram](https://t.me/river_li).
 
