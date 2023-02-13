@@ -1,28 +1,25 @@
-### About Me 👋
+### About me 👏
 
-Hi there! Here is River Li, a Graduate Student at Wuhan University, currently majoring in Cyberspace Security.
+Here is River(Zichuan) Li, I'm now a Master Student in Wuhan University, major in Cyberspace Security. And I will join Indiana University Bloomington as a Ph.D. student in Computer Science.
 
-I mainly focus on IoT Security, Underlying Software's Vulnerability Detection and other information security topics.
+In general, my research area is Computer System/Software Security.
+
+More Specifically, I am fascinated by novel attack techniques that could bypass security defenses and gain privileges.
+
+And I am planning to learn Program Analysis, Formal Methods and Machine Learning techniques to solve security problems.
 
 When I'm free, I enjoy [reading](https://book.douban.com/people/176314301/), watching [movies](https://movie.douban.com/people/176314301/) and [animations](https://bangumi.tv/user/573381).
 
-If you're interested, please check out my [blog](https://hack1s.fun) where I share my ordinary life, and my personal [wiki](https://wiki.hack1s.fun)which serves as a technical notebook.
+Check out my [academic page](https://zichuan.li), my [blog](https://hack1s.fun), and my personal [wiki](https://wiki.hack1s.fun). 
 
-Feel free to contact my via [Telegram](https://t.me/river_li).
+Feel free to contact my via [Telegram](https://t.me/river_li), [email](mailto:lizic0228@gmail.com) or [Twitter](https://twitter.com/Ri7erLi).
 
+These are all my commonly used IDs:
 
-### 关于我
+- htw6666
+- aRH3N
+- Ri7erLi
+- river-li
+- 呆毛王与咖喱棒
 
-武汉大学，硕士在读
-
-主要做IoT的漏洞挖掘，比较菜，一路踩坑
-
-喜欢新奇的电子产品，二次元，有空了打打游戏
-
-博客(Blog): [https://river-li.github.io](https://river-li.github.io) 
-
-Contact me here: 👉 [Telegram](https://t.me/river_li)
-
-[![River's github stats](https://github-readme-stats.vercel.app/api?username=river-li&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://river-li.github.io)
-
-
+I also lead team [10TG](https://github.com/10TG) (alias for IoT Group) in WHU, where I participated many security competitions and I am fortunate to work with all my team members.
