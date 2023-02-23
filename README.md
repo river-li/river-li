@@ -26,6 +26,7 @@ These are all my commonly used IDs:
 ## My Github Stats
 
 | <a href="https://github.com/river-li"><img align="center" src="https://github-readme-stats.vercel.app/api?username=river-li&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/river-li"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=river-li&layout=compact&theme=buefy&hide_border=true" /></a> |
+| --- | --- |
 
 
 <div align=center>
