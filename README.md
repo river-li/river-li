@@ -14,14 +14,6 @@ Check out my [academic page](https://zichuan.li), my [blog](https://hack1s.fun),
 
 Feel free to contact my via [Telegram](https://t.me/river_li), [email](mailto:lizic0228@gmail.com) or [Twitter](https://twitter.com/Ri7erLi).
 
-These are all my commonly used IDs:
-
-- htw6666
-- aRH3N
-- Ri7erLi
-- river-li
-- 呆毛王与咖喱棒
-
 
 ## My Github Stats
 
