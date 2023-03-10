@@ -1,5 +1,7 @@
 ### About me 👏
 
+![](https://komarev.com/ghpvc/?username=river-li&label=profile%20views&color=green&style=flat)
+
 Here is River(Zichuan) Li, I'm now a Master Student in Wuhan University, major in Cyberspace Security. And I will join Indiana University Bloomington as a Ph.D. student in Computer Science.
 
 In general, my research area is Computer System/Software Security.
