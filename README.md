@@ -14,7 +14,7 @@ When I'm free, I enjoy [reading](https://book.douban.com/people/176314301/), wat
 
 Check out my [academic page](https://zichuan.li), my [blog](https://hack1s.fun), and my personal [wiki](https://wiki.hack1s.fun). 
 
-Feel free to contact my via [Telegram](https://t.me/river_li), [email](mailto:lizic0228@gmail.com) or [Twitter](https://twitter.com/Ri7erLi).
+Feel free to contact me via [Telegram](https://t.me/river_li), [email](mailto:lizic0228@gmail.com) or [Twitter](https://twitter.com/Ri7erLi).
 
 
 ## My Github Stats
