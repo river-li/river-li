@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=river-li&label=profile%20views&color=green&style=flat)
 
-Here is River(Zichuan) Li, I'm a first year Ph.D. in Indiana University Bloomington, major in Computer Science.
+Here is River(Zichuan) Li, I'm a first year Ph.D. student in Indiana University Bloomington, major in Computer Science.
 
 In general, my research area is Computer System/Software Security.
 
