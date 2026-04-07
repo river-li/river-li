@@ -6,9 +6,7 @@ Here is River(Zichuan) Li. I'm a ~~first/second/~~/third-year Ph.D. student at U
 
 In general, my research area is Computer System/Software Security.
 
-More specifically, I am fascinated by novel attack techniques that could bypass security defenses and gain privileges.
-
-And I am learning Program Analysis, Formal Methods and Machine Learning techniques to solve security problems.
+I am interested in uncovering novel attack surfaces and vulnerabilities in real-world systems and leveraging program analysis and machine learning techniques to automatically discover them.
 
 When I'm free, I enjoy [reading](https://book.douban.com/people/176314301/), watching [movies](https://movie.douban.com/people/176314301/) and [animations](https://bangumi.tv/user/573381).
 
@@ -16,3 +14,6 @@ Check out my [academic page](https://zichuan.li), and my [blog](https://hack1s.f
 
 Feel free to contact me via [Telegram](https://t.me/river_li), [email](mailto:lizic0228@gmail.com) or [Twitter](https://twitter.com/Ri7erLi).
 
+I am a strong believer in AI-assisted coding/research/bug-hunting. I am trying to maximize the usage of AI in my daily work.
+
+[![](./vibe-profile.svg)](https://github.com/river-li/VibeProfile)
