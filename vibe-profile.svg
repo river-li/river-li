@@ -9,26 +9,26 @@
   </g>
 
   <g transform="translate(25, 60)">
-    <text x="0" y="0" font-family="'Inter', sans-serif" font-size="12" fill="#6b7280">Tokens (7 Days): <tspan font-weight="700" fill="#111827">3701.5M</tspan></text>
-    <text x="210" y="0" font-family="'Inter', sans-serif" font-size="12" fill="#6b7280">API Cost (7 Days): <tspan font-weight="700" fill="#111827">$5731.28</tspan></text>
+    <text x="0" y="0" font-family="'Inter', sans-serif" font-size="12" fill="#6b7280">Tokens (7 Days): <tspan font-weight="700" fill="#111827">4439.3M</tspan></text>
+    <text x="210" y="0" font-family="'Inter', sans-serif" font-size="12" fill="#6b7280">API Cost (7 Days): <tspan font-weight="700" fill="#111827">$3365.31</tspan></text>
   </g>
 
   <g transform="translate(25, 85)">
-    <text x="0" y="0" font-family="'Inter', sans-serif" font-size="12" fill="#6b7280">Total Sessions: <tspan font-weight="700" fill="#111827">522</tspan></text>
+    <text x="0" y="0" font-family="'Inter', sans-serif" font-size="12" fill="#6b7280">Total Sessions: <tspan font-weight="700" fill="#111827">578</tspan></text>
     <text x="210" y="0" font-family="'Inter', sans-serif" font-size="12" fill="#6b7280">Messages (7 Days): <tspan font-weight="700" fill="#111827">12.9k</tspan></text>
   </g>
-<g transform="translate(25, 110)"><rect x="0" y="0" width="400" height="8" rx="4" fill="#e5e7eb" /><rect x="0" y="0" width="397.8210723864309" height="8" rx="4" fill="#ea580c" /><rect x="397.8210723864309" y="0" width="1.894337794051008" height="8" rx="0" fill="#059669" /><rect x="399.7154101804819" y="0" width="0.2845898195180639" height="8" rx="4" fill="#4f46e5" /></g><g transform="translate(25, 135)">
+<g transform="translate(25, 110)"><rect x="0" y="0" width="400" height="8" rx="4" fill="#e5e7eb" /><rect x="0" y="0" width="398.7936882126346" height="8" rx="4" fill="#ea580c" /><rect x="398.7936882126346" y="0" width="1.0640185006899634" height="8" rx="0" fill="#059669" /><rect x="399.85770671332455" y="0" width="0.14229328667543603" height="8" rx="4" fill="#4f46e5" /></g><g transform="translate(25, 135)">
     <circle cx="4" cy="-4" r="4" fill="#ea580c" />
     <text x="13" y="0" font-family="'Inter', sans-serif" font-size="11" fill="#111827">Claude</text>
-    <text x="13" y="12" font-family="'Inter', sans-serif" font-size="10" fill="#6b7280">99.5%</text>
+    <text x="13" y="12" font-family="'Inter', sans-serif" font-size="10" fill="#6b7280">99.7%</text>
   
     <circle cx="84" cy="-4" r="4" fill="#059669" />
     <text x="93" y="0" font-family="'Inter', sans-serif" font-size="11" fill="#111827">Codex</text>
-    <text x="93" y="12" font-family="'Inter', sans-serif" font-size="10" fill="#6b7280">0.5%</text>
+    <text x="93" y="12" font-family="'Inter', sans-serif" font-size="10" fill="#6b7280">0.3%</text>
   
     <circle cx="164" cy="-4" r="4" fill="#4f46e5" />
     <text x="173" y="0" font-family="'Inter', sans-serif" font-size="11" fill="#111827">Gemini</text>
-    <text x="173" y="12" font-family="'Inter', sans-serif" font-size="10" fill="#6b7280">0.1%</text>
+    <text x="173" y="12" font-family="'Inter', sans-serif" font-size="10" fill="#6b7280">0.0%</text>
   </g>
     <g transform="translate(25, 175)">
       <text x="0" y="0" font-family="'Inter', sans-serif" font-size="14" font-weight="600" fill="#111827">Zichuan's Cost Trend (7 Days)</text>
@@ -37,18 +37,18 @@
   
     <g transform="translate(25, 200)">
       <!-- Y-Axis Labels -->
-      <text x="378" y="4" font-family="'Inter', -apple-system, sans-serif" font-size="10" fill="#6b7280">$2659.57</text>
-      <text x="378" y="29" font-family="'Inter', -apple-system, sans-serif" font-size="10" fill="#6b7280">$1329.79</text>
+      <text x="378" y="4" font-family="'Inter', -apple-system, sans-serif" font-size="10" fill="#6b7280">$1311.42</text>
+      <text x="378" y="29" font-family="'Inter', -apple-system, sans-serif" font-size="10" fill="#6b7280">$655.71</text>
       <text x="378" y="50" font-family="'Inter', -apple-system, sans-serif" font-size="10" fill="#6b7280">$0.00</text>
 
       <!-- X-Axis Labels -->
-      <text x="0" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="start">4/7</text>
-      <text x="61.666666666666664" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">4/8</text>
-      <text x="123.33333333333333" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">4/9</text>
-      <text x="185" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">4/10</text>
-      <text x="246.66666666666666" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">4/11</text>
-      <text x="308.3333333333333" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">4/12</text>
-      <text x="370" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="end">4/13</text>
+      <text x="0" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="start">4/30</text>
+      <text x="61.666666666666664" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">5/1</text>
+      <text x="123.33333333333333" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">5/2</text>
+      <text x="185" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">5/3</text>
+      <text x="246.66666666666666" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">5/4</text>
+      <text x="308.3333333333333" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">5/5</text>
+      <text x="370" y="64" font-family="'Inter', -apple-system, sans-serif" font-size="9" fill="#6b7280" text-anchor="end">5/6</text>
       
 
       <!-- Grid -->
@@ -59,9 +59,9 @@
       <line x1="370" y1="0" x2="370" y2="50" stroke="#e5e7eb" />
       
       <!-- Area Fill -->
-      <path d="M 0 47.414512093411176 C 30.833333333333332 47.414512093411176, 30.833333333333332 48.123436196830696, 61.666666666666664 48.123436196830696 C 92.5 48.123436196830696, 92.5 45.62969140950793, 123.33333333333333 45.62969140950793 C 154.16666666666666 45.62969140950793, 154.16666666666666 16.430358632193496, 185 16.430358632193496 C 215.83333333333334 16.430358632193496, 215.83333333333331 0, 246.66666666666666 0 C 277.5 0, 277.5 37.0558798999166, 308.3333333333333 37.0558798999166 C 339.16666666666663 37.0558798999166, 339.1666666666667 47.59799833194329, 370 47.59799833194329 L 370 50 L 0 50 Z" fill="#059669" opacity="0.1"/>
+      <path d="M 0 32.67810816204351 C 30.833333333333332 32.67810816204351, 30.833333333333332 34.4043105168629, 61.666666666666664 34.4043105168629 C 92.5 34.4043105168629, 92.5 49.790460985831174, 123.33333333333333 49.790460985831174 C 154.16666666666666 49.790460985831174, 154.16666666666666 32.48852524446218, 185 32.48852524446218 C 215.83333333333334 32.48852524446218, 215.83333333333331 0, 246.66666666666666 0 C 277.5 0, 277.5 38.92436639393335, 308.3333333333333 38.92436639393335 C 339.16666666666663 38.92436639393335, 339.1666666666667 33.406505687487524, 370 33.406505687487524 L 370 50 L 0 50 Z" fill="#059669" opacity="0.1"/>
       <!-- Curve -->
-      <path d="M 0 47.414512093411176 C 30.833333333333332 47.414512093411176, 30.833333333333332 48.123436196830696, 61.666666666666664 48.123436196830696 C 92.5 48.123436196830696, 92.5 45.62969140950793, 123.33333333333333 45.62969140950793 C 154.16666666666666 45.62969140950793, 154.16666666666666 16.430358632193496, 185 16.430358632193496 C 215.83333333333334 16.430358632193496, 215.83333333333331 0, 246.66666666666666 0 C 277.5 0, 277.5 37.0558798999166, 308.3333333333333 37.0558798999166 C 339.16666666666663 37.0558798999166, 339.1666666666667 47.59799833194329, 370 47.59799833194329" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M 0 32.67810816204351 C 30.833333333333332 32.67810816204351, 30.833333333333332 34.4043105168629, 61.666666666666664 34.4043105168629 C 92.5 34.4043105168629, 92.5 49.790460985831174, 123.33333333333333 49.790460985831174 C 154.16666666666666 49.790460985831174, 154.16666666666666 32.48852524446218, 185 32.48852524446218 C 215.83333333333334 32.48852524446218, 215.83333333333331 0, 246.66666666666666 0 C 277.5 0, 277.5 38.92436639393335, 308.3333333333333 38.92436639393335 C 339.16666666666663 38.92436639393335, 339.1666666666667 33.406505687487524, 370 33.406505687487524" fill="none" stroke="#059669" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
   
 </svg>
